@@ -1,12 +1,32 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<html lang="pt-br">
+        <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
+    <link rel="stylesheet" href="style.css">
+    <title> CCMI </title>
+        </head>
+    <body>
+<div>
+    <img src="Ipiranga.png" width="100%">
+    <hr>
+</div>
+<div class="Centro">
+    <button> <a> <h1> Apresentação Aluno </h1> </a> </button> <button> <a> <h1> Sala 2Ano B</h1> </a> </button> <button> <a> <h1> Projeto Programação </h1> </a>
+</div>
+    <hr>
+<div>
+    <h1 class="Centro"> Colégio Civico-Militar Ipiranga </h1>
+    <br>
+    <br>
+    <br>
+    <br>
+</div>
+<div style="display: flex;">
+    <img src="ipiranga2.jfif" height="250px">
+    <h2> Projeto Programação escolar </h2>
+    <p> Olá, meu nome é Leandro Martins Brandt e sou </p>
+</div>
+    </body>
 </html>
