@@ -22,11 +22,13 @@
     <br>
     <br>
     <br>
+    <h1 style="text-align:left"> Projeto Programação escolar </h1>
 </div>
 <div style="display: flex;">
     <img src="ipiranga2.jfif" height="250px">
-    <h2> Projeto Programação escolar </h2>
-    <p> Olá, meu nome é Leandro Martins Brandt e sou </p>
+    <br>
+    <br>
+    <p> Olá, meu nome é Leandro Martins Brandt e sou um aluno do colégio Cívico-militar Ipiranga. Nosso projeto de programação trás para nós, alunos, uma nova compreensão sobre a programação, nós estamos estudando para adquirir um conhecimento mais aprofundado sobre a area da programação.</p>
 </div>
     </body>
 </html>
